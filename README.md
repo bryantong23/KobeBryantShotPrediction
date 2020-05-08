@@ -1,4 +1,4 @@
-# KobeBryantShotPrediction
+# Predicting whether Kobe Bryant makes or misses a shot
 
 This project is a data analysis and machine learning exercise in order to attempt to predict whether Kobe Bryant will make a shot based off of different characteristics such as type of shot, area from floor, period, time left in the quarter, opponent, and more. The dataset was obtained from kaggle.com (https://www.kaggle.com/c/kobe-bryant-shot-selection/data), and contains statistics regarding every single shot Kobe Bryant attempted during his 20-year career. 
 
